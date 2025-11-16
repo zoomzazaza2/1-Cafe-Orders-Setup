@@ -1,0 +1,5 @@
+payment_type_id,payment_type
+0,
+1,Cash
+2,Credit Card
+3,Digital Wallet
