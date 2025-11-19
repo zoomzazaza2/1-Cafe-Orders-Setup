@@ -32,4 +32,5 @@ Visualizations including:
 5. Box plot of Total Item Price grouped by item
 
 ## Contact
-Settawuth Rattanaudom
+
+Settawuth Rattanaudom | settawuth.r@gmail.com
